@@ -23,3 +23,16 @@ font-family: 'Coda', cursive;
 .display1, .display2, .display3, .display4, h1, h2, h3, h4, h5, h6{
 	font-family: 'Teko', sans-serif
 }
+
+#logoicon{
+	display:inline-block; width: 50px; vertical-align: middle;
+}
+
+@media screen and (max-width:540px){
+	#logoicon{
+		width:30px;
+	}
+	.navbar-light .navbar-brand{
+		font-size: 17px;
+	}
+}
