@@ -2,22 +2,22 @@
 /*
 font-family: 'Black Ops One', cursive;
 font-family: 'Coda', cursive;
-#d4ac4c
+#b80
 */
 
 .navbar-light .navbar-brand{
 	font-family: 'Black Ops One', cursive;
-	color:#d4ac4c;
+	color:#b80;
 	font-size: 28px;
 }
 
 .btn-primary, .bg-accent{
-	background: #d4ac4c;
+	background: #b80;
 	border-color:#fff;
 }
 
 .accent{
-	color:#d4ac4c;
+	color:#b80;
 }
 
 .display1, .display2, .display3, .display4, h1, h2, h3, h4, h5, h6{
